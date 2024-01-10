@@ -1,0 +1,16 @@
+* {
+  display: flex;
+  text-align: center;
+}
+
+.titulo {
+  color: aquamarine;
+  font-size: 50px;
+}
+.contactos {
+  font-size: 35px;
+}
+.num-contacto {
+  text-align: right;
+  color: rgba(20, 4, 4, 0.555);
+}
